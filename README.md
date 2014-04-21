@@ -1,6 +1,6 @@
 Quick Start
 -----------
-Read up on PRTG execute a batch file as notification. [http://www.paessler.com/knowledgebase/en/topic/2543-how-can-i-execute-a-batch-file-as-notification]
+Read up on [PRTG execute a batch file as notification] (http://www.paessler.com/knowledgebase/en/topic/2543-how-can-i-execute-a-batch-file-as-notification).
 
 Make sure .Net Framework 4.5 is install on your core server.
 
