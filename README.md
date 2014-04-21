@@ -10,3 +10,5 @@ First parameter is the phone number to send the message to, the the rest is the 
 Example parameters: 5555551234 %group %device %shortname: %status %down (%message)
 
 You will also need to edit the "Prtg.Pager.Twilio.exe.config" file, to enter your Twilio API keys and source phone number you want to use.
+
+[Download] (https://github.com/AdamCLarsen/PRTG-TwilioPager/raw/master/bin/Prtg-TwilioPager.zip)
